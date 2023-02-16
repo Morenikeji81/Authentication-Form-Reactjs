@@ -1,0 +1,115 @@
+*{
+    margin: 0px;
+    padding: 0px;    
+}
+body{
+    background-color: black;
+}
+.card{
+background-image: url("./LaptopLady.jpeg");
+background-repeat: no-repeat;
+width: 477px;
+/* height: 520px;  */
+margin-left: 450px;
+border-radius: 30px;
+margin-top: 12px;
+margin-bottom: 12px;
+}
+.first-paragraph{
+    color: white;
+    padding-top: 30px;
+    padding-left: 40px;
+}
+.first-heading{
+    margin: 150px 1px 82px 40px;
+    color: white;
+    font-size: 50px;
+}
+.second-paragraph{
+    margin-left: 190px;
+}
+.card1{
+    width: 436px;
+    height: 200px;
+    background-color: white;
+    border-top-right-radius: 30px;
+    padding: 20px; 
+    line-height: 40px; 
+    font-size: 25px;
+     border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px; 
+}
+.first-button{
+background-color: rgb(135, 134, 134);
+border: none; 
+color: white;
+padding: 10px 100px 10px 100px;
+border-radius: 10px;
+margin: 20px 1px 20px 80px;
+font-size: 20px;
+}
+.input{
+    border:none;
+    padding: 10px 277px 10px 1px;
+    background-color: rgb(135, 134, 134);
+}
+.form1---card, .form2---card{
+    background-color: rgb(135, 134, 134); 
+    width: 477px;
+    height: 650px; 
+    border-radius: 30px; 
+    margin-left: 450px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.form1-card, .form2-card{
+    background-color: rgb(213, 210, 210); 
+    padding: 50px 1px 50px 30px;
+    border-bottom-left-radius: 50px;
+    border-top-left-radius:30px;
+    border-top-right-radius: 30px;
+}
+.horizontal-line{
+    opacity: 0.5
+}
+.input-paragraph, .form2-input-paragraph{
+    color: white;
+}
+.form1-heading, .form2-heading{
+    padding-top: 30px;
+}
+.form, .form2--form{
+    padding: 20px 1px 30px 30px;
+    line-height: 40px;
+}
+::placeholder{
+   background: none;
+    color:white;
+}
+.btn--btn, .form2-btn-btn{
+    background-color: white;
+    border: none; 
+    color:rgb(135, 134, 134);
+    padding: 10px 120px 10px 120px;
+    border-radius: 10px;
+    margin: -20px 1px 10px 80px;
+    font-size: 20px;  
+}
+.last-paragraph, .form2-lastparagraph{
+    margin-left: 30px; 
+    color: white; 
+    padding-top: 10px;  
+}
+.last-paragraph{
+    padding-right: 150px;  
+}
+.flex--flex{
+    display:flex; 
+}
+.last--paragraph{
+    padding-top: 10px;
+    color: white;  
+}
+.form2-lastparagraph{
+margin-left: 320px;
+}
